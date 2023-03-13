@@ -3,7 +3,7 @@
 - 🔭 I’m currently working toward the Ph.D. degree at Wangxuan Institute of Computer Technology of Peking University.
 - 🌱 My research interests include multi-modal learning, 3D adversarial attacks, etc.
 
-#### I am always open to any cooperation. Feel free to drop me an email!
+### I am always open to any cooperation. Feel free to drop me an email!
 
 <!--
 **liudaizong/liudaizong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
