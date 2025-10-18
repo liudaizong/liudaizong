@@ -1,6 +1,6 @@
 ### Hi, I'm Daizong Liu 👋
 
-- 🔭 I’m currently working toward the Ph.D. degree at Wangxuan Institute of Computer Technology of Peking University.
+- 🔭 I’m an assistant professor at Wuhan University.
 - 🌱 My research interests include multi-modal learning, 3D adversarial attacks, etc.
 
 
