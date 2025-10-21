@@ -1,6 +1,7 @@
 ### Hi, I'm Daizong Liu 👋
 
-- 🔭 I’m an assistant professor at Wuhan University.
+- 🔭 I’m an Assistant Professor at Wuhan University. I'm always actively recruiting well-motivated Master and Ph.D. Students. Welcome to contact me (daizongliu@whu.edu.cn) with your detailed CV!
+
 - 🌱 My research interests include multi-modal learning, 3D adversarial attacks, etc.
 
 
